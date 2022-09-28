@@ -1,0 +1,15 @@
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Les états de l’eau\Les états de l’eau\Les états de l’eau\obj\Debug\net6.0\Les états de l’eau.csproj.AssemblyReference.cache
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Les états de l’eau\Les états de l’eau\Les états de l’eau\obj\Debug\net6.0\Les états de l’eau.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Les états de l’eau\Les états de l’eau\Les états de l’eau\obj\Debug\net6.0\Les états de l’eau.AssemblyInfoInputs.cache
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Les états de l’eau\Les états de l’eau\Les états de l’eau\obj\Debug\net6.0\Les états de l’eau.AssemblyInfo.cs
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Les états de l’eau\Les états de l’eau\Les états de l’eau\obj\Debug\net6.0\Les états de l’eau.csproj.CoreCompileInputs.cache
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Les états de l’eau\Les états de l’eau\Les états de l’eau\bin\Debug\net6.0\Les états de l’eau.exe
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Les états de l’eau\Les états de l’eau\Les états de l’eau\bin\Debug\net6.0\Les états de l’eau.deps.json
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Les états de l’eau\Les états de l’eau\Les états de l’eau\bin\Debug\net6.0\Les états de l’eau.runtimeconfig.json
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Les états de l’eau\Les états de l’eau\Les états de l’eau\bin\Debug\net6.0\Les états de l’eau.dll
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Les états de l’eau\Les états de l’eau\Les états de l’eau\bin\Debug\net6.0\Les états de l’eau.pdb
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Les états de l’eau\Les états de l’eau\Les états de l’eau\obj\Debug\net6.0\Les états de l’eau.dll
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Les états de l’eau\Les états de l’eau\Les états de l’eau\obj\Debug\net6.0\refint\Les états de l’eau.dll
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Les états de l’eau\Les états de l’eau\Les états de l’eau\obj\Debug\net6.0\Les états de l’eau.pdb
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Les états de l’eau\Les états de l’eau\Les états de l’eau\obj\Debug\net6.0\Les états de l’eau.genruntimeconfig.cache
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Les états de l’eau\Les états de l’eau\Les états de l’eau\obj\Debug\net6.0\ref\Les états de l’eau.dll

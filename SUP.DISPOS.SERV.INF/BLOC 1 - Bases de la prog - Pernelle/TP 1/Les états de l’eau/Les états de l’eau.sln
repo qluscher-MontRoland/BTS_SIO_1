@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les états de l’eau", "Les états de l’eau\Les états de l’eau.csproj", "{B011DF9B-FB64-4BE9-A420-484A9966D669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B011DF9B-FB64-4BE9-A420-484A9966D669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B011DF9B-FB64-4BE9-A420-484A9966D669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B011DF9B-FB64-4BE9-A420-484A9966D669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B011DF9B-FB64-4BE9-A420-484A9966D669}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82ABD4B1-7303-4543-98A3-CAC8667C8533}
+	EndGlobalSection
+EndGlobal

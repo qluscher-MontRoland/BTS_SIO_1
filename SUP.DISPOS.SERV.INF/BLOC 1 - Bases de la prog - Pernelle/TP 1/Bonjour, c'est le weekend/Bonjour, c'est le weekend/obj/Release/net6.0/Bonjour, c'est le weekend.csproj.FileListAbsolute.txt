@@ -1,0 +1,15 @@
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonjour, c'est le weekend\Bonjour, c'est le weekend\bin\Release\net6.0\Bonjour, c'est le weekend.exe
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonjour, c'est le weekend\Bonjour, c'est le weekend\bin\Release\net6.0\Bonjour, c'est le weekend.deps.json
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonjour, c'est le weekend\Bonjour, c'est le weekend\bin\Release\net6.0\Bonjour, c'est le weekend.runtimeconfig.json
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonjour, c'est le weekend\Bonjour, c'est le weekend\bin\Release\net6.0\Bonjour, c'est le weekend.dll
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonjour, c'est le weekend\Bonjour, c'est le weekend\bin\Release\net6.0\Bonjour, c'est le weekend.pdb
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonjour, c'est le weekend\Bonjour, c'est le weekend\obj\Release\net6.0\Bonjour, c'est le weekend.csproj.AssemblyReference.cache
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonjour, c'est le weekend\Bonjour, c'est le weekend\obj\Release\net6.0\Bonjour, c'est le weekend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonjour, c'est le weekend\Bonjour, c'est le weekend\obj\Release\net6.0\Bonjour, c'est le weekend.AssemblyInfoInputs.cache
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonjour, c'est le weekend\Bonjour, c'est le weekend\obj\Release\net6.0\Bonjour, c'est le weekend.AssemblyInfo.cs
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonjour, c'est le weekend\Bonjour, c'est le weekend\obj\Release\net6.0\Bonjour, c'est le weekend.csproj.CoreCompileInputs.cache
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonjour, c'est le weekend\Bonjour, c'est le weekend\obj\Release\net6.0\Bonjour, c'est le weekend.dll
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonjour, c'est le weekend\Bonjour, c'est le weekend\obj\Release\net6.0\refint\Bonjour, c'est le weekend.dll
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonjour, c'est le weekend\Bonjour, c'est le weekend\obj\Release\net6.0\Bonjour, c'est le weekend.pdb
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonjour, c'est le weekend\Bonjour, c'est le weekend\obj\Release\net6.0\Bonjour, c'est le weekend.genruntimeconfig.cache
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonjour, c'est le weekend\Bonjour, c'est le weekend\obj\Release\net6.0\ref\Bonjour, c'est le weekend.dll

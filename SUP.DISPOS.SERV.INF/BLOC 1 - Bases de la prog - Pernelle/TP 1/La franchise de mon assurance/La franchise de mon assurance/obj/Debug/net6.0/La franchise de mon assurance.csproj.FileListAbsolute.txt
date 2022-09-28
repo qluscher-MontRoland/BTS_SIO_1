@@ -1,0 +1,15 @@
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\La franchise de mon assurance\La franchise de mon assurance\La franchise de mon assurance\bin\Debug\net6.0\La franchise de mon assurance.exe
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\La franchise de mon assurance\La franchise de mon assurance\La franchise de mon assurance\bin\Debug\net6.0\La franchise de mon assurance.deps.json
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\La franchise de mon assurance\La franchise de mon assurance\La franchise de mon assurance\bin\Debug\net6.0\La franchise de mon assurance.runtimeconfig.json
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\La franchise de mon assurance\La franchise de mon assurance\La franchise de mon assurance\bin\Debug\net6.0\La franchise de mon assurance.dll
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\La franchise de mon assurance\La franchise de mon assurance\La franchise de mon assurance\bin\Debug\net6.0\La franchise de mon assurance.pdb
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\La franchise de mon assurance\La franchise de mon assurance\La franchise de mon assurance\obj\Debug\net6.0\La franchise de mon assurance.csproj.AssemblyReference.cache
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\La franchise de mon assurance\La franchise de mon assurance\La franchise de mon assurance\obj\Debug\net6.0\La franchise de mon assurance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\La franchise de mon assurance\La franchise de mon assurance\La franchise de mon assurance\obj\Debug\net6.0\La franchise de mon assurance.AssemblyInfoInputs.cache
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\La franchise de mon assurance\La franchise de mon assurance\La franchise de mon assurance\obj\Debug\net6.0\La franchise de mon assurance.AssemblyInfo.cs
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\La franchise de mon assurance\La franchise de mon assurance\La franchise de mon assurance\obj\Debug\net6.0\La franchise de mon assurance.csproj.CoreCompileInputs.cache
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\La franchise de mon assurance\La franchise de mon assurance\La franchise de mon assurance\obj\Debug\net6.0\La franchise de mon assurance.dll
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\La franchise de mon assurance\La franchise de mon assurance\La franchise de mon assurance\obj\Debug\net6.0\refint\La franchise de mon assurance.dll
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\La franchise de mon assurance\La franchise de mon assurance\La franchise de mon assurance\obj\Debug\net6.0\La franchise de mon assurance.pdb
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\La franchise de mon assurance\La franchise de mon assurance\La franchise de mon assurance\obj\Debug\net6.0\La franchise de mon assurance.genruntimeconfig.cache
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\La franchise de mon assurance\La franchise de mon assurance\La franchise de mon assurance\obj\Debug\net6.0\ref\La franchise de mon assurance.dll

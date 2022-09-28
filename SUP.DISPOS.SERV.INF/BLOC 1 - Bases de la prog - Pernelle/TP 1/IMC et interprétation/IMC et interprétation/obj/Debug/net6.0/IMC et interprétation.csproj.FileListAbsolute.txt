@@ -1,0 +1,15 @@
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\IMC et interprétation\IMC et interprétation\IMC et interprétation\bin\Debug\net6.0\IMC et interprétation.exe
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\IMC et interprétation\IMC et interprétation\IMC et interprétation\bin\Debug\net6.0\IMC et interprétation.deps.json
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\IMC et interprétation\IMC et interprétation\IMC et interprétation\bin\Debug\net6.0\IMC et interprétation.runtimeconfig.json
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\IMC et interprétation\IMC et interprétation\IMC et interprétation\bin\Debug\net6.0\IMC et interprétation.dll
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\IMC et interprétation\IMC et interprétation\IMC et interprétation\bin\Debug\net6.0\IMC et interprétation.pdb
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\IMC et interprétation\IMC et interprétation\IMC et interprétation\obj\Debug\net6.0\IMC et interprétation.csproj.AssemblyReference.cache
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\IMC et interprétation\IMC et interprétation\IMC et interprétation\obj\Debug\net6.0\IMC et interprétation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\IMC et interprétation\IMC et interprétation\IMC et interprétation\obj\Debug\net6.0\IMC et interprétation.AssemblyInfoInputs.cache
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\IMC et interprétation\IMC et interprétation\IMC et interprétation\obj\Debug\net6.0\IMC et interprétation.AssemblyInfo.cs
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\IMC et interprétation\IMC et interprétation\IMC et interprétation\obj\Debug\net6.0\IMC et interprétation.csproj.CoreCompileInputs.cache
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\IMC et interprétation\IMC et interprétation\IMC et interprétation\obj\Debug\net6.0\IMC et interprétation.dll
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\IMC et interprétation\IMC et interprétation\IMC et interprétation\obj\Debug\net6.0\refint\IMC et interprétation.dll
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\IMC et interprétation\IMC et interprétation\IMC et interprétation\obj\Debug\net6.0\IMC et interprétation.pdb
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\IMC et interprétation\IMC et interprétation\IMC et interprétation\obj\Debug\net6.0\IMC et interprétation.genruntimeconfig.cache
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\IMC et interprétation\IMC et interprétation\IMC et interprétation\obj\Debug\net6.0\ref\IMC et interprétation.dll

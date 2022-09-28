@@ -1,0 +1,15 @@
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonus Obtention du BTS\Bonus Obtention du BTS\bin\Debug\net6.0\Bonus Obtention du BTS.exe
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonus Obtention du BTS\Bonus Obtention du BTS\bin\Debug\net6.0\Bonus Obtention du BTS.deps.json
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonus Obtention du BTS\Bonus Obtention du BTS\bin\Debug\net6.0\Bonus Obtention du BTS.runtimeconfig.json
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonus Obtention du BTS\Bonus Obtention du BTS\bin\Debug\net6.0\Bonus Obtention du BTS.dll
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonus Obtention du BTS\Bonus Obtention du BTS\bin\Debug\net6.0\Bonus Obtention du BTS.pdb
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonus Obtention du BTS\Bonus Obtention du BTS\obj\Debug\net6.0\Bonus Obtention du BTS.csproj.AssemblyReference.cache
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonus Obtention du BTS\Bonus Obtention du BTS\obj\Debug\net6.0\Bonus Obtention du BTS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonus Obtention du BTS\Bonus Obtention du BTS\obj\Debug\net6.0\Bonus Obtention du BTS.AssemblyInfoInputs.cache
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonus Obtention du BTS\Bonus Obtention du BTS\obj\Debug\net6.0\Bonus Obtention du BTS.AssemblyInfo.cs
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonus Obtention du BTS\Bonus Obtention du BTS\obj\Debug\net6.0\Bonus Obtention du BTS.csproj.CoreCompileInputs.cache
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonus Obtention du BTS\Bonus Obtention du BTS\obj\Debug\net6.0\Bonus Obtention du BTS.dll
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonus Obtention du BTS\Bonus Obtention du BTS\obj\Debug\net6.0\refint\Bonus Obtention du BTS.dll
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonus Obtention du BTS\Bonus Obtention du BTS\obj\Debug\net6.0\Bonus Obtention du BTS.pdb
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonus Obtention du BTS\Bonus Obtention du BTS\obj\Debug\net6.0\Bonus Obtention du BTS.genruntimeconfig.cache
+D:\Users\Desktop\Etude\Pasteur\Exercice C#\Bonus Obtention du BTS\Bonus Obtention du BTS\obj\Debug\net6.0\ref\Bonus Obtention du BTS.dll

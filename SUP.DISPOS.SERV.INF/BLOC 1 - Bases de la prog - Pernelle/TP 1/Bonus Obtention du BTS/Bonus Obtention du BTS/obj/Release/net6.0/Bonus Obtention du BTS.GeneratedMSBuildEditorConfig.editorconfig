@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Bonus_Obtention_du_BTS
+build_property.ProjectDir = D:\Users\Desktop\Etude\Pasteur\qluscher-MontRoland\BTS_SIO_1\SUP.DISPOS.SERV.INF\BLOC 1 - Bases de la prog - Pernelle\TP 1\Bonus Obtention du BTS\Bonus Obtention du BTS\
