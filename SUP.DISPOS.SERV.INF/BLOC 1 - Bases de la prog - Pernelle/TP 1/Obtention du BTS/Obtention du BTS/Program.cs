@@ -37,7 +37,7 @@ namespace Exercice1
             }
 
             // Definition de la moyenne
-            int moyenne = (note_e1 + note_e2 + note_e3 + note_e4 + note_e5 + note_e6) / 6;
+            int moyenne = (note_e1*4 + note_e2*3 + note_e3*3 + note_e4*4 + note_e5*4 + note_e6*4) / 22;
 
             // Affichage du message...
             if (moyenne >= 10)                                                              // ...si la moyenne est plus grande ou egale a 10
