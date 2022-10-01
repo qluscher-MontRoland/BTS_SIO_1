@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Equation du second degré/1.0.0": {
+        "runtime": {
+          "Equation du second degré.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Equation du second degré/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

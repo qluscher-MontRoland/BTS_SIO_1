@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equation du second degré", "Equation du second degré\Equation du second degré.csproj", "{253951D3-D2E0-401B-908C-2AE6D1050AE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{253951D3-D2E0-401B-908C-2AE6D1050AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253951D3-D2E0-401B-908C-2AE6D1050AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253951D3-D2E0-401B-908C-2AE6D1050AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253951D3-D2E0-401B-908C-2AE6D1050AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08A23674-32B2-46EA-B6AD-4710E3BB29FB}
+	EndGlobalSection
+EndGlobal
