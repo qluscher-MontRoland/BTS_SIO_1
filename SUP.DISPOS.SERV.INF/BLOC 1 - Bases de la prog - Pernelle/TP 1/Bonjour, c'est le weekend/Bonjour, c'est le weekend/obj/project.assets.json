@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Desktop\\Etude\\Pasteur\\Exercice C#\\Bonjour, c'est le weekend\\Bonjour, c'est le weekend\\Bonjour, c'est le weekend\\Bonjour, c'est le weekend.csproj",
+      "projectUniqueName": "D:\\Users\\Desktop\\Etude\\Pasteur\\qluscher-MontRoland\\BTS_SIO_1\\SUP.DISPOS.SERV.INF\\BLOC 1 - Bases de la prog - Pernelle\\TP 1\\Bonjour, c'est le weekend\\Bonjour, c'est le weekend\\Bonjour, c'est le weekend.csproj",
       "projectName": "Bonjour, c'est le weekend",
-      "projectPath": "D:\\Users\\Desktop\\Etude\\Pasteur\\Exercice C#\\Bonjour, c'est le weekend\\Bonjour, c'est le weekend\\Bonjour, c'est le weekend\\Bonjour, c'est le weekend.csproj",
+      "projectPath": "D:\\Users\\Desktop\\Etude\\Pasteur\\qluscher-MontRoland\\BTS_SIO_1\\SUP.DISPOS.SERV.INF\\BLOC 1 - Bases de la prog - Pernelle\\TP 1\\Bonjour, c'est le weekend\\Bonjour, c'est le weekend\\Bonjour, c'est le weekend.csproj",
       "packagesPath": "C:\\Users\\quenq\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Desktop\\Etude\\Pasteur\\Exercice C#\\Bonjour, c'est le weekend\\Bonjour, c'est le weekend\\Bonjour, c'est le weekend\\obj\\",
+      "outputPath": "D:\\Users\\Desktop\\Etude\\Pasteur\\qluscher-MontRoland\\BTS_SIO_1\\SUP.DISPOS.SERV.INF\\BLOC 1 - Bases de la prog - Pernelle\\TP 1\\Bonjour, c'est le weekend\\Bonjour, c'est le weekend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

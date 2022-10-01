@@ -12,7 +12,7 @@ namespace Exercice
             int weight = 0;
             double height = 0;
 
-            // Saisie des notes
+            // Saisie de la taille et du points
             try
             {
                 Console.WriteLine("Poids en kg:");
@@ -49,7 +49,7 @@ namespace Exercice
             // Definition de la imc
             double imc = weight / Math.Pow(height, 2);
 
-            // Affichage du message...
+            // Affichage du message par rapport a la valeur de l'imc
             if (imc < 16.5)
             {
                 Console.BackgroundColor = ConsoleColor.DarkRed;
@@ -96,10 +96,6 @@ namespace Exercice
             // Retour des couleurs par defautl
             Console.BackgroundColor = ConsoleColor.Black;
             Console.ForegroundColor = ConsoleColor.White;
-
-            //Console.WriteLine("DEBUG weight > " + weight);
-            //Console.WriteLine("DEBUG height > " + height);
-            //Console.WriteLine("DEBUG imc > " + imc);
         }
     }
 }

@@ -13,14 +13,15 @@ namespace Exercice
             int hours = DateTime.Now.Hour;
             DayOfWeek days = DateTime.Now.DayOfWeek;
 
-            if ((days == DayOfWeek.Monday && hours > 9) || days == DayOfWeek.Tuesday || days == DayOfWeek.Wednesday || days == DayOfWeek.Thursday || (days == DayOfWeek.Friday && hours < 18))
+            // Affichage du message
+            if ((days == DayOfWeek.Monday && hours > 9) || days == DayOfWeek.Tuesday || days == DayOfWeek.Wednesday || days == DayOfWeek.Thursday || (days == DayOfWeek.Friday && hours < 18)) // la semaine
             {
-                if (hours > 9 && hours < 18)
+                if (hours > 9 && hours < 18)                        // la journee
                     Console.WriteLine("Bonjour " + username);
-                else
+                else                                                // la nuit
                     Console.WriteLine("Bonsoir " + username);
             }
-            else
+            else    // le week-end
                 Console.WriteLine("Bon week-end " + username);
         }
     }

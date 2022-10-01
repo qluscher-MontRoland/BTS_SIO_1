@@ -10,7 +10,7 @@ namespace Exercice2
             // Declaration des variables
             float amount = 0;
 
-            // Saisie des notes
+            // Saisie de la sommes des degats
             try
             {
                 Console.WriteLine("Montant des dommages: ");

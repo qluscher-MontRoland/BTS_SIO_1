@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Desktop\\Etude\\Pasteur\\Exercice C#\\Obtention du BTS\\Obtention du BTS\\Obtention du BTS\\Obtention du BTS.csproj",
+      "projectUniqueName": "D:\\Users\\Desktop\\Etude\\Pasteur\\qluscher-MontRoland\\BTS_SIO_1\\SUP.DISPOS.SERV.INF\\BLOC 1 - Bases de la prog - Pernelle\\TP 1\\Obtention du BTS\\Obtention du BTS\\Obtention du BTS.csproj",
       "projectName": "Obtention du BTS",
-      "projectPath": "D:\\Users\\Desktop\\Etude\\Pasteur\\Exercice C#\\Obtention du BTS\\Obtention du BTS\\Obtention du BTS\\Obtention du BTS.csproj",
+      "projectPath": "D:\\Users\\Desktop\\Etude\\Pasteur\\qluscher-MontRoland\\BTS_SIO_1\\SUP.DISPOS.SERV.INF\\BLOC 1 - Bases de la prog - Pernelle\\TP 1\\Obtention du BTS\\Obtention du BTS\\Obtention du BTS.csproj",
       "packagesPath": "C:\\Users\\quenq\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Desktop\\Etude\\Pasteur\\Exercice C#\\Obtention du BTS\\Obtention du BTS\\Obtention du BTS\\obj\\",
+      "outputPath": "D:\\Users\\Desktop\\Etude\\Pasteur\\qluscher-MontRoland\\BTS_SIO_1\\SUP.DISPOS.SERV.INF\\BLOC 1 - Bases de la prog - Pernelle\\TP 1\\Obtention du BTS\\Obtention du BTS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

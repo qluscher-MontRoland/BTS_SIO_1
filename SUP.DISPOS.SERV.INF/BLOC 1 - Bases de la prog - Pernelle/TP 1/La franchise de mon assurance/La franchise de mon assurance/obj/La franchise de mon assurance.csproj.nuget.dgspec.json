@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Desktop\\Etude\\Pasteur\\Exercice C#\\La franchise de mon assurance\\La franchise de mon assurance\\La franchise de mon assurance\\La franchise de mon assurance.csproj": {}
+    "D:\\Users\\Desktop\\Etude\\Pasteur\\qluscher-MontRoland\\BTS_SIO_1\\SUP.DISPOS.SERV.INF\\BLOC 1 - Bases de la prog - Pernelle\\TP 1\\La franchise de mon assurance\\La franchise de mon assurance\\La franchise de mon assurance.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Desktop\\Etude\\Pasteur\\Exercice C#\\La franchise de mon assurance\\La franchise de mon assurance\\La franchise de mon assurance\\La franchise de mon assurance.csproj": {
+    "D:\\Users\\Desktop\\Etude\\Pasteur\\qluscher-MontRoland\\BTS_SIO_1\\SUP.DISPOS.SERV.INF\\BLOC 1 - Bases de la prog - Pernelle\\TP 1\\La franchise de mon assurance\\La franchise de mon assurance\\La franchise de mon assurance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Desktop\\Etude\\Pasteur\\Exercice C#\\La franchise de mon assurance\\La franchise de mon assurance\\La franchise de mon assurance\\La franchise de mon assurance.csproj",
+        "projectUniqueName": "D:\\Users\\Desktop\\Etude\\Pasteur\\qluscher-MontRoland\\BTS_SIO_1\\SUP.DISPOS.SERV.INF\\BLOC 1 - Bases de la prog - Pernelle\\TP 1\\La franchise de mon assurance\\La franchise de mon assurance\\La franchise de mon assurance.csproj",
         "projectName": "La franchise de mon assurance",
-        "projectPath": "D:\\Users\\Desktop\\Etude\\Pasteur\\Exercice C#\\La franchise de mon assurance\\La franchise de mon assurance\\La franchise de mon assurance\\La franchise de mon assurance.csproj",
+        "projectPath": "D:\\Users\\Desktop\\Etude\\Pasteur\\qluscher-MontRoland\\BTS_SIO_1\\SUP.DISPOS.SERV.INF\\BLOC 1 - Bases de la prog - Pernelle\\TP 1\\La franchise de mon assurance\\La franchise de mon assurance\\La franchise de mon assurance.csproj",
         "packagesPath": "C:\\Users\\quenq\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Desktop\\Etude\\Pasteur\\Exercice C#\\La franchise de mon assurance\\La franchise de mon assurance\\La franchise de mon assurance\\obj\\",
+        "outputPath": "D:\\Users\\Desktop\\Etude\\Pasteur\\qluscher-MontRoland\\BTS_SIO_1\\SUP.DISPOS.SERV.INF\\BLOC 1 - Bases de la prog - Pernelle\\TP 1\\La franchise de mon assurance\\La franchise de mon assurance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

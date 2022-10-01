@@ -66,6 +66,7 @@ namespace Exercice
             else
                 Console.WriteLine("Vous ne pouvez pas garder de matieres pour l'an prochain, vous n'avez pas de note assez haute");
 
+            // Saisi du chemin pour le relevé de note
             try
             {
                 Console.WriteLine("Entre le chemin pour votre relevé de note (ex: C:\\Users\\Desktop)");
@@ -77,6 +78,7 @@ namespace Exercice
                 return;
             }
 
+            // Creation du fichier html "ReleveDeNote"
             try
             {
                 using (FileStream fs = File.Create(path + "\\ReleveDeNote.html"))
